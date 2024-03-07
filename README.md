@@ -1,1 +1,1 @@
-# A-improverd-EGARCH-model-for-analysis
+# An-improverd-EGARCH-model-for-analysis
