@@ -1,0 +1,1 @@
+An improved EGARCH model
